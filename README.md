@@ -1,4 +1,4 @@
-# Landing Page - Museum
+# Landing Page - Kickstarter
 
 ## Project Description
 This is an implementation of the landing page, according to [Design link](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?mode=dev)
